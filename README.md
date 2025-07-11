@@ -1,6 +1,6 @@
 
 📘 Project Overview
-Excel Data Analysis Project (Course-Based)
+Excel Data Analysis Projects (Course-Based)
 
 These projects were completed as part of Luke Barousse’s Data Analytics Excel course. They explore real-world Excel data cleaning, analysis, and dashboard-building techniques in a business context.
 
